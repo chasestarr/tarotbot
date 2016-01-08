@@ -24,7 +24,7 @@ function tweet(){
 	var T = new Twit(config);
 	
 	var tweetStatus = {
-		status: tarot.read()
+		status: tarot.read() + ""
 	};
 	console.log(tweetStatus);
 	

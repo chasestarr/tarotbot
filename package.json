@@ -1,0 +1,26 @@
+{
+  "name": "tarotbot",
+  "version": "1.0.0",
+  "description": "http://www.twitter.com/knightfcups",
+  "main": "tarotBot.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chasestarr/tarotbot.git"
+  },
+  "keywords": [
+    "tarot",
+    "twitter",
+    "bot"
+  ],
+  "author": "chase starr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chasestarr/tarotbot/issues"
+  },
+  "homepage": "https://github.com/chasestarr/tarotbot#readme"
+}
